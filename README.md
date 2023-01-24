@@ -1,3 +1,3 @@
 this is my first project
 this is a second
-this chnage is done on feature branch
+this change is done on feature branch
